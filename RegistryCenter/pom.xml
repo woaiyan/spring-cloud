@@ -12,6 +12,7 @@
 	<artifactId>RegistryCenter</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>RegistryCenter</name>
+	<packaging>jar</packaging>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
